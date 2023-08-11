@@ -1,0 +1,87 @@
+<div class="pageClustering">
+
+  <div class="header">
+    <div class="buttonlogo">
+      <input type="image" src="https://svgsilh.com/svg/1646213.svg" style="background-color: #363636" routerLink="/">
+    </div> 
+    <div class="button-about-project">
+      <button onclick="showHide('aout-project')">О ПРОЕКТЕ</button>
+    </div>
+  </div>
+  <div class="about-project" id="aout-project">
+    <div class="about-header">
+        <div class="about-text-header">
+            Проект
+        </div>
+        <div class="team-header">
+            Команда
+        </div>
+    </div>
+    <div class="about-main">
+        <div class="about-text">
+            Refugio - наш классный распрекрасный проект, я люблю его больше жизни
+            И бабушка моя его любит, и дедушка
+            Жизнь бы отдал, за наше убежище
+        </div>
+        <div class="team">
+            Карпов И.
+            Степаненко П.
+            Голубцов Н.
+            </div>
+        </div>
+    </div>
+
+  <div class="body">
+    <div class="metrics">
+      <div id="list" class="listbtn">
+      <div class="list" >
+        <h2>Вот список людей, чьи интересы схожи с Вашими:</h2>
+        <ul>
+          <li *ngFor="let user of users">{{user.firstName + ' ' + user.lastName}} <br> {{'Увлечения: ' + user.activity}} <br> {{'Университет: ' + user.university}} <br> {{'Факультет: ' + user.facultyName}} <br> <a href="{{user.vkIdString}}" target=”_blanc”>{{user.vkIdString}}</a></li>
+        </ul>
+      </div>
+      <div class="calculate">
+        <button id="btn-search" name=buttonSearch (click)="drawGraph()" >
+          График
+        </button>
+      </div>
+      <div>
+        <canvas  id="MyChart" class="chart" >{{ chart }}</canvas>
+      </div>
+    </div>
+      <div id="header_ref" class="header_ref">
+        <h1>REFUGIO</h1>
+    </div>
+    <div>
+      <form>
+        <mat-form-field class="forma-top" appearance="fill">
+          <mat-label>Выберите необходимый фильтр</mat-label>
+          <mat-select [(ngModel)]="selectedValue" name="clust">
+            <mat-option *ngFor="let clust of cluster" [value]="clust.value">
+              {{clust.viewValue}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </form>
+    </div>
+      <div class="calculate">
+        <button id="btn-searc" name=buttonSearch (click)="clustering()" >
+          Поиск
+        </button>
+      </div>
+    </div>
+  </div>  
+
+  <div class="bottom">
+    <div>
+      <p>Refugio|BMSTU</p>
+    </div>
+    <div id="mock"></div>
+    <div class="command">
+      <a>Карпов И.</a>
+      <a>Степаненко П.</a>
+      <a>Голубцов Н.</a>
+    </div>
+  </div>
+
+</div>

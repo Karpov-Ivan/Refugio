@@ -1,0 +1,53 @@
+<div class="welcome">
+    <div class="header">
+        <div class="button-about-project">
+            <button onclick="showHide('aout-project')">О ПРОЕКТЕ</button>
+        </div>
+    </div>
+    <div class="about-project" id="aout-project">
+        <div class="about-header">
+            <div class="about-text-header">
+                Проект
+            </div>
+            <div class="team-header">
+                Команда
+            </div>
+        </div>
+        <div class="about-main">
+            <div class="about-text">
+                Refugio - наш классный распрекрасный проект, я люблю его больше жизни
+                И бабушка моя его любит, и дедушка
+                Жизнь бы отдал, за наше убежище
+            </div>
+            <div class="team">
+                Карпов И.
+                Степаненко П.
+                Голубцов Н.
+            </div>
+        </div>
+    </div>
+    <div class="main">
+        <div class="logo-space">
+            <div class="logo">
+                <div class="logotitle">
+                    <h1>REFUGIO</h1>
+                </div>
+                <div class="textlogo">
+                    <a>Платформа для поиска единомышленников</a>
+                </div>
+            </div>
+        </div>
+        <div class="linkuser">
+            <div class="inputlink">
+                <form [formGroup]="userForm">
+                    <a>
+                        <input type="text" id="link" name="link" formControlName="link" placeholder="Введите ссылку на Вашу страницу Вконтакте">
+                    </a>
+                </form>
+            </div>
+            <div class="buttonlogo">
+                <input type="image" src="https://svgsilh.com/svg/1646213.svg" style="background-color: #363636" (click)="setUser()" routerLink="/clustering">
+            </div>  
+        </div>
+    </div>
+</div>

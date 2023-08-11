@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Clusterization\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Clusterization\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dbscan" Version="3.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Refugio.Models\Refugio.Models.csproj" />
+    <ProjectReference Include="..\Refugio.Interfaces\Refugio.Interfaces.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,239 @@
+.metrics {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background: #111111 url(./Mask_group.jpg);
+    min-height:62vh;
+    padding: 2%;
+}
+
+h1 {
+    font-family: 'GOST type B', sans-serif;
+    font-style: normal;
+    font-size: 128px;
+    color: #363636;
+}
+
+.forma-top {
+    width: 400px;
+    border-radius: 10%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'GOST type A', sans-serif;
+}
+
+.header {
+    border-bottom: 3px solid #3E3E3E;
+    padding-bottom: 10px;
+    margin-left: 2%;
+    margin-right: 5%;
+    height: 60px;
+    margin-bottom:3%;
+}
+
+.bottom{
+    height: 60px;
+    margin-top:3%;
+}
+
+.refugio-name {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    margin-top: 0 !important;
+}
+
+.buttonlogo input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    float: left;
+    background: #363636;
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.calculate button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 52px;
+
+    background: #3D3D3D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+
+    width: 116px;
+    height: 19px;
+    border: 0px;
+    font-family: 'GOST Type B';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #CBCBCB;
+}
+
+.list {
+    color: #363636;
+    margin-right: 15%;
+    font-size: 15px;
+    background: #D9D9D9;
+    border-radius: 15px;
+    width: 600px;
+    font-family: 'GOST Type B';
+    padding:5px;
+}
+
+.header_ref{
+    margin-right: 5%;
+}
+
+li {
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+
+ul{
+    padding:0px;
+    overflow:hidden; 
+    overflow-y:scroll;
+    height: 400px;
+}
+
+.header .button-about-project button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'GOST Type BU';
+    font-style: normal;
+    color: #7A7A7A;
+    background-color: transparent;
+    border-radius: 30px;
+    border-color: white;
+    width: 80px;
+    font-family: 'GOST type A', sans-serif;
+}
+
+.bottom {
+    border-top: 3px solid #3E3E3E;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #FFFFFF;
+    font-family: 'GOST Type B';
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.command {
+    margin-top: 1.5%;
+}
+
+.command a{
+    margin-left: 10px;
+}
+
+h2 {
+    font-family: 'GOST Type B';
+    font-size: 18px;
+}
+
+.about-project{
+    z-index: 3;
+    height:300px;
+    width: 90%;
+    position: absolute;
+    background-color: rgba(132, 132, 132, 0.9);
+     display: none;
+    flex-direction: column;
+    flex-wrap: nowrap; 
+    padding:7px;
+    font-family: 'GOST type B', sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    color: white;
+    margin-left:5%;
+}
+
+.main{
+    z-index: 1;
+    position: relative;
+}
+
+.about-text, .about-text-header{
+    z-index: 2;
+    position: relative;
+    width: 50%;
+    margin-right: 5%;
+    padding-right: 5%;
+}
+
+.about-text{
+    z-index: 2;
+    position: relative;
+    border-right:2px solid #D9D9D9;
+}
+
+.about-header{
+    z-index: 2;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom:15px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #D9D9D9;
+}
+
+.about-main{
+    z-index: 2;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 80%;
+}
+
+.load{
+    position:absolute;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+}
+
+.chart{
+    z-index: 2;
+    position: relative;
+    display: none;
+    background: #D9D9D9;
+    border-radius: 15px;
+    margin-top: 1%;
+}
+
+.listbtn{
+    display: none;
+    flex-direction: column;
+}

@@ -1,0 +1,9 @@
+<router-outlet></router-outlet>
+<mat-progress-spinner 
+    [mode]="'indeterminate'"
+    *ngIf="loading$ | async">
+</mat-progress-spinner>
+
+<div class="load" id="load">
+    <p>Получаем Ваши данные с ВКонтакте</p>
+</div>

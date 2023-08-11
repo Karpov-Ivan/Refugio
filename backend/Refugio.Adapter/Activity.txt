@@ -1,0 +1,1109 @@
+﻿[
+  {
+    "activity": "Movie theater"
+  },
+  {
+    "activity": "Humor"
+  },
+  {
+    "activity": "Martial arts"
+  },
+  {
+    "activity": "Literature"
+  },
+  {
+    "activity": "Blog"
+  },
+  {
+    "activity": "Cars"
+  },
+  {
+    "activity": "Blogger"
+  },
+  {
+    "activity": "Beauty Salon"
+  },
+  {
+    "activity": "Religion"
+  },
+  {
+    "activity": "Rock"
+  },
+  {
+    "activity": "Philosophy"
+  },
+  {
+    "activity": "Bookstore"
+  },
+  {
+    "activity": "Creative work"
+  },
+  {
+    "activity": "Musician"
+  },
+  {
+    "activity": "Education"
+  },
+  {
+    "activity": "Neighbours"
+  },
+  {
+    "activity": "Sports Organization"
+  },
+  {
+    "activity": "Animals"
+  },
+  {
+    "activity": "Fashion, clothing, shoes"
+  },
+  {
+    "activity": "Youth organization"
+  },
+  {
+    "activity": "Food, recipes"
+  },
+  {
+    "activity": "Hotel"
+  },
+  {
+    "activity": "Application"
+  },
+  {
+    "activity": "Photography"
+  },
+  {
+    "activity": "Café, Restaurant"
+  },
+  {
+    "activity": "Other hobbies"
+  },
+  {
+    "activity": "University"
+  },
+  {
+    "activity": "Fan club"
+  },
+  {
+    "activity": "Science"
+  },
+  {
+    "activity": "Publicist"
+  },
+  {
+    "activity": "Culture"
+  },
+  {
+    "activity": "Animation"
+  },
+  {
+    "activity": "Show, program"
+  },
+  {
+    "activity": "Products for crafts"
+  },
+  {
+    "activity": "Writer"
+  },
+  {
+    "activity": "Society"
+  },
+  {
+    "activity": "Football"
+  },
+  {
+    "activity": "Government Organization"
+  },
+  {
+    "activity": "City community"
+  },
+  {
+    "activity": "Clothing, shoes"
+  },
+  {
+    "activity": "Advertising"
+  },
+  {
+    "activity": "Fitness Center"
+  },
+  {
+    "activity": "Technology, electronics"
+  },
+  {
+    "activity": "Streamer"
+  },
+  {
+    "activity": "Style, fashion"
+  },
+  {
+    "activity": "Indie"
+  },
+  {
+    "activity": "Video game"
+  },
+  {
+    "activity": "Games"
+  },
+  {
+    "activity": "Lyceum"
+  },
+  {
+    "activity": "Pet Supplies"
+  },
+  {
+    "activity": "Pet Service"
+  },
+  {
+    "activity": "Auto Goods"
+  },
+  {
+    "activity": "Programming"
+  },
+  {
+    "activity": "Video games"
+  },
+  {
+    "activity": "Comedian"
+  },
+  {
+    "activity": "Theatre"
+  },
+  {
+    "activity": "School"
+  },
+  {
+    "activity": "Classifieds"
+  },
+  {
+    "activity": "Hospital"
+  },
+  {
+    "activity": "Sewing & Alterations"
+  },
+  {
+    "activity": "Furniture"
+  },
+  {
+    "activity": "Politics"
+  },
+  {
+    "activity": "Doctor"
+  },
+  {
+    "activity": "Artist"
+  },
+  {
+    "activity": "Computer Services"
+  },
+  {
+    "activity": "Military arts"
+  },
+  {
+    "activity": "Charity"
+  },
+  {
+    "activity": "Personal care"
+  },
+  {
+    "activity": "Interior design"
+  },
+  {
+    "activity": "Movies"
+  },
+  {
+    "activity": "Model"
+  },
+  {
+    "activity": "Band"
+  },
+  {
+    "activity": "Public page"
+  },
+  {
+    "activity": "Parents and children"
+  },
+  {
+    "activity": "Educational institution"
+  },
+  {
+    "activity": "Perfume, Cosmetics"
+  },
+  {
+    "activity": "Bar, Pub"
+  },
+  {
+    "activity": "Students"
+  },
+  {
+    "activity": "Classical music"
+  },
+  {
+    "activity": "Religious establishment"
+  },
+  {
+    "activity": "Training courses"
+  },
+  {
+    "activity": "Rap, hip-hop"
+  },
+  {
+    "activity": "Healthy lifestyle"
+  },
+  {
+    "activity": "Cultural center"
+  },
+  {
+    "activity": "Political Party"
+  },
+  {
+    "activity": "Esports organization"
+  },
+  {
+    "activity": "Travel Information"
+  },
+  {
+    "activity": "Other goods"
+  },
+  {
+    "activity": "Supermarket"
+  },
+  {
+    "activity": "Public organization"
+  },
+  {
+    "activity": "Websites"
+  },
+  {
+    "activity": "Resort"
+  },
+  {
+    "activity": "Manufacturing, Industry"
+  },
+  {
+    "activity": "Event Planning"
+  },
+  {
+    "activity": "Discussion club"
+  },
+  {
+    "activity": "Design"
+  },
+  {
+    "activity": "Institute"
+  },
+  {
+    "activity": "Mass media"
+  },
+  {
+    "activity": "Auto racing"
+  },
+  {
+    "activity": "History"
+  },
+  {
+    "activity": "Business"
+  },
+  {
+    "activity": "Medicine"
+  },
+  {
+    "activity": "Party Supplies"
+  },
+  {
+    "activity": "Consulting, business services"
+  },
+  {
+    "activity": "Night club"
+  },
+  {
+    "activity": "Food Delivery"
+  },
+  {
+    "activity": "Cooking"
+  },
+  {
+    "activity": "Quest"
+  },
+  {
+    "activity": "Erotic"
+  },
+  {
+    "activity": "Park"
+  },
+  {
+    "activity": "Cleaning Services"
+  },
+  {
+    "activity": "Entrepreneur"
+  },
+  {
+    "activity": "Internet media"
+  },
+  {
+    "activity": "Radio Station"
+  },
+  {
+    "activity": "Intellectual games"
+  },
+  {
+    "activity": "Continuing Education"
+  },
+  {
+    "activity": "Tourism, travel"
+  },
+  {
+    "activity": "Household Products"
+  },
+  {
+    "activity": "Actor or Actress"
+  },
+  {
+    "activity": "Electronics"
+  },
+  {
+    "activity": "Games, toys"
+  },
+  {
+    "activity": "Summer Camp"
+  },
+  {
+    "activity": "Repair, construction"
+  },
+  {
+    "activity": "College sports"
+  },
+  {
+    "activity": "Item"
+  },
+  {
+    "activity": "Printed Matter"
+  },
+  {
+    "activity": "Medical Centre"
+  },
+  {
+    "activity": "Electronic music"
+  },
+  {
+    "activity": "Hunting"
+  },
+  {
+    "activity": "Car Wash"
+  },
+  {
+    "activity": "Car owners"
+  },
+  {
+    "activity": "Other music"
+  },
+  {
+    "activity": "Gender relations"
+  },
+  {
+    "activity": "Job search"
+  },
+  {
+    "activity": "Food, drink"
+  },
+  {
+    "activity": "Entertainment"
+  },
+  {
+    "activity": "Photo & video capture"
+  },
+  {
+    "activity": "Passenger transport"
+  },
+  {
+    "activity": "Water sports"
+  },
+  {
+    "activity": "Veterinary Clinic"
+  },
+  {
+    "activity": "Software"
+  },
+  {
+    "activity": "Astrology, esotericism"
+  },
+  {
+    "activity": "Politician, Civil Servant"
+  },
+  {
+    "activity": "Movie"
+  },
+  {
+    "activity": "Health Resort, Holiday Home"
+  },
+  {
+    "activity": "Dating"
+  },
+  {
+    "activity": "Country"
+  },
+  {
+    "activity": "Content production"
+  },
+  {
+    "activity": "Basketball"
+  },
+  {
+    "activity": "Esports"
+  },
+  {
+    "activity": "VK"
+  },
+  {
+    "activity": "Open group"
+  },
+  {
+    "activity": "Game"
+  },
+  {
+    "activity": "Tabletop games"
+  },
+  {
+    "activity": "Other sports"
+  },
+  {
+    "activity": "TV channel"
+  },
+  {
+    "activity": "Sauna"
+  },
+  {
+    "activity": "Colleagues"
+  },
+  {
+    "activity": "Gambling"
+  },
+  {
+    "activity": "College"
+  },
+  {
+    "activity": "Pet shop"
+  },
+  {
+    "activity": "Tennis"
+  },
+  {
+    "activity": "Jazz"
+  },
+  {
+    "activity": "Basketball Team"
+  },
+  {
+    "activity": "Singer"
+  },
+  {
+    "activity": "Music sharing"
+  },
+  {
+    "activity": "Musical instruments"
+  },
+  {
+    "activity": "Recording Studio"
+  },
+  {
+    "activity": "Languages"
+  },
+  {
+    "activity": "Design Studio"
+  },
+  {
+    "activity": "Dancing"
+  },
+  {
+    "activity": "Internet store"
+  },
+  {
+    "activity": "Website"
+  },
+  {
+    "activity": "Esports team"
+  },
+  {
+    "activity": "Book"
+  },
+  {
+    "activity": "Art and entertainment"
+  },
+  {
+    "activity": "Construction Materials, Tools"
+  },
+  {
+    "activity": "Construction and repair work"
+  },
+  {
+    "activity": "Flowers"
+  },
+  {
+    "activity": "Auto service center"
+  },
+  {
+    "activity": "Summer sports"
+  },
+  {
+    "activity": "Grammar School"
+  },
+  {
+    "activity": "Gardening"
+  },
+  {
+    "activity": "Computers"
+  },
+  {
+    "activity": "Active recreation"
+  },
+  {
+    "activity": "Repair work"
+  },
+  {
+    "activity": "Sports team"
+  },
+  {
+    "activity": "Circus"
+  },
+  {
+    "activity": "Sports club"
+  },
+  {
+    "activity": "Photographer"
+  },
+  {
+    "activity": "Community center"
+  },
+  {
+    "activity": "Designer"
+  },
+  {
+    "activity": "Country House & Garden Goods"
+  },
+  {
+    "activity": "Dance school"
+  },
+  {
+    "activity": "Zoo"
+  },
+  {
+    "activity": "Scientist, Teacher"
+  },
+  {
+    "activity": "Hockey"
+  },
+  {
+    "activity": "Fictional character"
+  },
+  {
+    "activity": "Training, seminar"
+  },
+  {
+    "activity": "Company"
+  },
+  {
+    "activity": "Dance music"
+  },
+  {
+    "activity": "Psychologist"
+  },
+  {
+    "activity": "Music"
+  },
+  {
+    "activity": "Interior"
+  },
+  {
+    "activity": "Fitness"
+  },
+  {
+    "activity": "Fishing"
+  },
+  {
+    "activity": "Services for car owners"
+  },
+  {
+    "activity": "Cartoons"
+  },
+  {
+    "activity": "Public figure"
+  },
+  {
+    "activity": "Journalist"
+  },
+  {
+    "activity": "Security"
+  },
+  {
+    "activity": "Friends"
+  },
+  {
+    "activity": "Other services"
+  },
+  {
+    "activity": "Antiques"
+  },
+  {
+    "activity": "Tattoo studio"
+  },
+  {
+    "activity": "Sports organization"
+  },
+  {
+    "activity": "Delivery Service"
+  },
+  {
+    "activity": "Motorcycling"
+  },
+  {
+    "activity": "Poet or poetess"
+  },
+  {
+    "activity": "Real Estate"
+  },
+  {
+    "activity": "Archive"
+  },
+  {
+    "activity": "Kids Goods"
+  },
+  {
+    "activity": "Extreme sports"
+  },
+  {
+    "activity": "Organization"
+  },
+  {
+    "activity": "Show"
+  },
+  {
+    "activity": "Coffee Shop"
+  },
+  {
+    "activity": "Lyrics, chords"
+  },
+  {
+    "activity": "Online Game"
+  },
+  {
+    "activity": "Publishing house"
+  },
+  {
+    "activity": "Concert"
+  },
+  {
+    "activity": "Football Team"
+  },
+  {
+    "activity": "Museum"
+  },
+  {
+    "activity": "Museum, gallery, exhibition"
+  },
+  {
+    "activity": "Freight Transportation"
+  },
+  {
+    "activity": "Role-playing games"
+  },
+  {
+    "activity": "Public Movement"
+  },
+  {
+    "activity": "Store"
+  },
+  {
+    "activity": "Finance"
+  },
+  {
+    "activity": "Esports Player"
+  },
+  {
+    "activity": "Record label"
+  },
+  {
+    "activity": "Real estate"
+  },
+  {
+    "activity": "Festival"
+  },
+  {
+    "activity": "Mobile Stores"
+  },
+  {
+    "activity": "Web Studio"
+  },
+  {
+    "activity": "Sports complex"
+  },
+  {
+    "activity": "Financial Markets"
+  },
+  {
+    "activity": "Concert hall"
+  },
+  {
+    "activity": "Folk"
+  },
+  {
+    "activity": "Hosting, Domain Registration"
+  },
+  {
+    "activity": "Guided Tours"
+  },
+  {
+    "activity": "Children's Clothing and Shoes"
+  },
+  {
+    "activity": "High tech"
+  },
+  {
+    "activity": "Stylist, Image Consultant"
+  },
+  {
+    "activity": "Sporting Goods"
+  },
+  {
+    "activity": "Shopping Mall"
+  },
+  {
+    "activity": "Kindergarten"
+  },
+  {
+    "activity": "Classmates"
+  },
+  {
+    "activity": "Art and culture"
+  },
+  {
+    "activity": "Series"
+  },
+  {
+    "activity": "Water transportation"
+  },
+  {
+    "activity": "Accessories, jewelry"
+  },
+  {
+    "activity": "Billiard Room"
+  },
+  {
+    "activity": "Pregnancy, childbirth"
+  },
+  {
+    "activity": "Psychology"
+  },
+  {
+    "activity": "Medical Service"
+  },
+  {
+    "activity": "Cosmetology"
+  },
+  {
+    "activity": "Outdoor activities"
+  },
+  {
+    "activity": "Equipment"
+  },
+  {
+    "activity": "Auto Dealer"
+  },
+  {
+    "activity": "Airport, Train Station"
+  },
+  {
+    "activity": "Dentistry"
+  },
+  {
+    "activity": "Group of artists"
+  },
+  {
+    "activity": "Airline"
+  },
+  {
+    "activity": "Character"
+  },
+  {
+    "activity": "Jewelry"
+  },
+  {
+    "activity": "Hunting & Fishing"
+  },
+  {
+    "activity": "Travel Agency"
+  },
+  {
+    "activity": "Mobile technology"
+  },
+  {
+    "activity": "Hockey Team"
+  },
+  {
+    "activity": "Service"
+  },
+  {
+    "activity": "Car Manufacturer"
+  },
+  {
+    "activity": "Winter sports"
+  },
+  {
+    "activity": "Amusement Park"
+  },
+  {
+    "activity": "DJ"
+  },
+  {
+    "activity": "Wedding planning"
+  },
+  {
+    "activity": "Travel"
+  },
+  {
+    "activity": "TV Host"
+  },
+  {
+    "activity": "Library"
+  },
+  {
+    "activity": "Sports Club"
+  },
+  {
+    "activity": "Bank, Financial Institution"
+  },
+  {
+    "activity": "Payment System"
+  },
+  {
+    "activity": "Transportation services"
+  },
+  {
+    "activity": "Diets, healthy eating"
+  },
+  {
+    "activity": "Dancer"
+  },
+  {
+    "activity": "Driving School"
+  },
+  {
+    "activity": "Track and field"
+  },
+  {
+    "activity": "Critic"
+  },
+  {
+    "activity": "Composer"
+  },
+  {
+    "activity": "Remembrance"
+  },
+  {
+    "activity": "Swimming Pool"
+  },
+  {
+    "activity": "Volleyball"
+  },
+  {
+    "activity": "Watches"
+  },
+  {
+    "activity": "Athlete"
+  },
+  {
+    "activity": "Cycling"
+  },
+  {
+    "activity": "Sports supplements"
+  },
+  {
+    "activity": "Office Supplies"
+  },
+  {
+    "activity": "Cinematography"
+  },
+  {
+    "activity": "Actor"
+  },
+  {
+    "activity": "Relatives"
+  },
+  {
+    "activity": "Movie Director, Producer"
+  },
+  {
+    "activity": "Mobile Network Carrier"
+  },
+  {
+    "activity": "Metal"
+  },
+  {
+    "activity": "Sports clothing and footwear"
+  },
+  {
+    "activity": "Legal Services"
+  },
+  {
+    "activity": "Car Rental"
+  },
+  {
+    "activity": "Motorcycles and Motor Vehicles"
+  },
+  {
+    "activity": "Ice Rink"
+  },
+  {
+    "activity": "Graduates"
+  },
+  {
+    "activity": "Spiritual figure"
+  },
+  {
+    "activity": "Rental Services"
+  },
+  {
+    "activity": "Game studio"
+  },
+  {
+    "activity": "Club"
+  },
+  {
+    "activity": "Vocational School"
+  },
+  {
+    "activity": "Finishing & Repair Work"
+  },
+  {
+    "activity": "TV show"
+  },
+  {
+    "activity": "R&B"
+  },
+  {
+    "activity": "Printing, Graphic Arts"
+  },
+  {
+    "activity": "Namesakes"
+  },
+  {
+    "activity": "Pharmacy, Ophthalmology"
+  },
+  {
+    "activity": "Retirement Fund"
+  },
+  {
+    "activity": "Bridal Salon"
+  },
+  {
+    "activity": "Home Appliances"
+  },
+  {
+    "activity": "Shopping"
+  },
+  {
+    "activity": "Modeling agency"
+  },
+  {
+    "activity": "Play"
+  },
+  {
+    "activity": "Host"
+  },
+  {
+    "activity": "Economics and finance"
+  },
+  {
+    "activity": "Taxi"
+  },
+  {
+    "activity": "Volleyball Team"
+  },
+  {
+    "activity": "Show Business"
+  },
+  {
+    "activity": "Pub"
+  },
+  {
+    "activity": "Producer"
+  },
+  {
+    "activity": "Motorsports"
+  },
+  {
+    "activity": "Insurance"
+  },
+  {
+    "activity": "Roller skating"
+  },
+  {
+    "activity": "Accounting & Taxes"
+  },
+  {
+    "activity": "Sports and beauty"
+  },
+  {
+    "activity": "Adult Merchandise"
+  },
+  {
+    "activity": "Management Company"
+  },
+  {
+    "activity": "Album"
+  },
+  {
+    "activity": "Auto Insurance"
+  },
+  {
+    "activity": "Esports Team"
+  },
+  {
+    "activity": "Theater"
+  },
+  {
+    "activity": "Technology"
+  },
+  {
+    "activity": "Temple"
+  },
+  {
+    "activity": "Latin music"
+  },
+  {
+    "activity": "This content is blocked in your country"
+  },
+  {
+    "activity": "Publishing House"
+  },
+  {
+    "activity": "National Park, Nature Reserve"
+  },
+  {
+    "activity": "Courses"
+  },
+  {
+    "activity": "Internet Service Provider"
+  },
+  {
+    "activity": "Pawnshop"
+  },
+  {
+    "activity": "Movie Theater"
+  },
+  {
+    "activity": "Detective agency"
+  },
+  {
+    "activity": "Religious Organization"
+  },
+  {
+    "activity": "Tickets, Hotel Reservations"
+  },
+  {
+    "activity": "Poet"
+  },
+  {
+    "activity": "Hostel"
+  },
+  {
+    "activity": "Food & Drink"
+  }
+]

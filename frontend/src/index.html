@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Refugiofronted</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/gost-type-a" rel="stylesheet">
+  <link href="//db.onlinewebfonts.com/c/630ceaa13c410e5732e26b72ea43b363?family=GOST+type+B" rel="stylesheet" type="text/css"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular-animate.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/animatecss/3.2.0/animate.css"/>
+  <script src="/src/js/idialog.js"></script>
+  <link rel="stylesheet" href="/src/css/style.css"> 
+</head>
+<body class="mat-typography">
+  <script type="text/javascript">
+    function showHide(element_id, elem_hide_id) {
+        if (document.getElementById(element_id)) { 
+            var obj = document.getElementById(element_id);
+            var hide = document.getElementById(elem_hide_id);
+            if (obj.style.display != "flex") { 
+                obj.style.display = "flex"; 
+                if(hide)
+                  hide.style.display = "none"; 
+            }
+            else {
+              obj.style.display = "none";
+          }
+        }
+        else alert("Элемент с id: " + element_id + " не найден!"); 
+        
+    }   
+
+  </script>
+  <script type="text/javascript">
+    function show(element_id) {
+        if (document.getElementById(element_id)) { 
+            var obj = document.getElementById(element_id);
+            if (obj.style.display != "flex") { 
+                obj.style.display = "flex"; 
+            }
+        }
+        else alert("Элемент с id: " + element_id + " не найден!");
+    }   
+
+  </script>
+  <script type="text/javascript">
+    function hide(element_id) {
+        if (document.getElementById(element_id)) { 
+            var obj = document.getElementById(element_id);
+            if (obj.style.display != "none") { 
+              obj.style.display = "none";
+          }
+        }
+        else alert("Элемент с id: " + element_id + " не найден!"); 
+        
+    }   
+
+  </script>
+  <app-root></app-root>
+</body>
+</html>

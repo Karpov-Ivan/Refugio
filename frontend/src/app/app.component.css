@@ -1,0 +1,25 @@
+mat-progress-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 5;
+}
+
+.load{
+    position:absolute;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+}
+
+.load p {
+    font-family: 'GOST type B', sans-serif;
+    color: white;
+    font-size: 30px;
+    margin-top: 10%;
+}
